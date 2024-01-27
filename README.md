@@ -1,6 +1,6 @@
 <h1>Job-Project</h1>
 
-Özellikler:
+--Özellikler:
 
 -İş İlanları Listeleme:
 

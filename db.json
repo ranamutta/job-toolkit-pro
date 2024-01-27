@@ -1,0 +1,76 @@
+{
+  "jobs": [
+    {
+      "id": 5,
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": "3/10/2024"
+    },
+    {
+      "id": 6,
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "3/1/2024"
+    },
+    {
+      "id": 7,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "1/17/2021"
+    },
+    {
+      "id": 8,
+      "position": "Marketing Manager",
+      "company": "Coca Cola",
+      "location": "İstanbul/Levent",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "9/12/2020"
+    },
+    {
+      "id": 9,
+      "position": "Software Tester",
+      "company": "IBM",
+      "location": "Ankara/Çankaya",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "3/28/2023"
+    },
+    {
+      "id": "f45d77db-8348-42d1-8f92-0a360960286d",
+      "position": "Data Scientist",
+      "company": "Udemig",
+      "location": "Ankara/Çankaya",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "27.01.2024"
+    },
+    {
+      "id": "f2e7dd51-e04d-4276-864c-a6d7535b1e5d",
+      "position": "Data Scientist",
+      "company": "Udemig",
+      "location": "Ankara/Çankaya",
+      "status": "Devam Ediyor",
+      "type": "Staj",
+      "date": "27.01.2024"
+    },
+    {
+      "id": "6b901bd4-dbc8-4e35-93fd-549bb48bc4d9",
+      "position": "Data Scientist",
+      "company": "Udemig",
+      "location": "Ankara/Çankaya",
+      "status": "Devam Ediyor",
+      "type": "Staj",
+      "date": "27.01.2024"
+    }
+  ]
+}
